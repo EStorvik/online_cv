@@ -87,7 +87,7 @@ experiences:
         time: 2022- 2023
         company: University of Bergen
         details: |
-          Did research and image analysis development for the DarSIA project, https://pmgbergen.github.com/darsia.
+          Did research and image analysis development for the DarSIA project, https://github.com/pmgbergen/DarSIA.
       
       - role: Ph.D. Candidate
         time: 2019 - 2022
@@ -154,7 +154,7 @@ projects:
       Some of the projects that I have been working on recently are presented here.
     assignments:
       - title: DarSIA
-        link: "https://pmgbergen.github.com/darsia"
+        link: "https://github.com/pmgbergen/DarSIA"
         tagline: "An open-source image analysis toolbox for images of porous materials at Darcy Scale. Developed in relation to, but not exclusively for, the FluidFlower benchmark stury."
 
       - title: Global Game Jam in Førde
@@ -167,7 +167,7 @@ oss:
 
     contributions:
       - title: DarSIA
-        link: "https://pmgbergen.github.com/darsia"
+        link: "https://github.com/pmgbergen/DarSIA"
         tagline: "An open-source image analysis toolbox for images of porous materials at Darcy Scale. Developed in relation to, but not exclusively for, the FluidFlower benchmark stury."
 
 
@@ -206,7 +206,6 @@ publications:
         link: "https://arxiv.org/abs/2212.11111"
         authors: Roberto Nuca, Erlend Storvik, Florin A. Radu, Matteo Icardi
         conference: "arXiv preprint arXiv:2212.11111, 2022"
-
 
       - title: "A robust solution strategy for the Cahn-Larché equations"
         link: "https://doi.org/10.1016/j.camwa.2023.02.002"
