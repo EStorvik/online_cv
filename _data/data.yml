@@ -55,22 +55,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a mathematician that enjoys the life as an associate professor. For me, a perfect combination of teaching and research!
 education:
     title: Education
     info:
-      - degree: Phd in Applied mathematics
+      - degree: Phd in Applied Mathematics
         university: University of Bergen
         time: 2019 - 2022
         details: |
           Studied solution strategies for coupled partial differential equations with a special emphasis on regularization problems.
       
-      - degree: MSc in applied Mathematics
+      - degree: MSc in Applied Mathematics
         university: University of Bergen
         time: 2017-2018
       
@@ -92,24 +87,25 @@ experiences:
         time: 2022- 2023
         company: University of Bergen
         details: |
-          Did research and image analysis development for the DarSIA project, pmgbergen.github.com/darsia.
+          Did research and image analysis development for the DarSIA project, https://pmgbergen.github.com/darsia.
       
-      - role: Ph.D. candidate
+      - role: Ph.D. Candidate
         time: 2019 - 2022
         company: University of Bergen
         details: |
-          Tought bachelor and master level mathematics courses, and did research for my PHD
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Tought bachelor and master level mathematics courses, and did research for my PHD. The dissertation is available at https://bora.uib.no/bora-xmlui/handle/11250/3022032.
+      
+      - role: Project manager for ENT3R
+        time: 2017 - 2018
+        company: ENT3R, Bergen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Managed the ENT3R project at the University of Bergen with 18 employees that worked for recruitment to natural sciences.
+
+      - role: Teaching assistant
+        time: 2014 - 2018
+        company: University of Bergen
+        details: |
+          Acted as a teaching assistant in a variety of bachelor and master level mathematics courses.
 
 # certifications:
 #       title: Certifications
@@ -155,92 +151,110 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the projects that I have been working on recently are presented here.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: DarSIA
+        link: "https://pmgbergen.github.com/darsia"
+        tagline: "An open-source image analysis toolbox for images of porous materials at Darcy Scale. Developed in relation to, but not exclusively for, the FluidFlower benchmark stury."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Global Game Jam in Førde
+        link: "https://hvlforde.github.io/globalgamejam_hvl"
+        tagline: "Organizing the local edition of Global Game Jam in Førde 2024."
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: DarSIA
+        link: "https://pmgbergen.github.com/darsia"
+        tagline: "An open-source image analysis toolbox for images of porous materials at Darcy Scale. Developed in relation to, but not exclusively for, the FluidFlower benchmark stury."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here is a list of my scientific publications.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Well-posedness analysis of the Cahn-Hilliard-Biot model"
+        link: "https://arxiv.org/abs/2310.18231"
+        authors: Cedric Riethmüller, Erlend Storvik, Jakub Wiktor Both, Florin Adrian Radu
+        conference: "arXiv preprint arXiv:2310.18231, 2023"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "An adaptive solution strategy for Richards' equation."
+        link: "https://arxiv.org/abs/2301.02055"
+        authors: Jakob S. Stokke, Koondanibha Mitra, Erlend Storvik, Jakub W. Both, Florin A. Radu
+        conference: "arXiv preprint arXiv:2301.02055, 2023."
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: "Room-Scale CO2 Injections in a Physical Reservoir Model with Faults"
+        link: "https://doi.org/10.1007/s11242-023-02013-4"
+        authors: Martin A. Fernø, Malin Haugen, Kristoffer Eikehaug, Olav Folkvord, Benyamine Benali, Jakub W. Both, Erlend Storvik, Casey W. Nixon, Robert L. Gawthrope, Jan M. Nordbotten 
+        conference: "Transport in Porous Media, 2023"
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+      - title: "DarSIA: An Open-Source Python Toolbox for Two-Scale Image Processing of Dynamics in Porous Media"
+        link: "https://doi.org/10.1007/s11242-023-02000-9"
+        authors: Jan M. Nordbotten, Benyamine Benali, Jakub W. Both, Bergit Brattekås, Erlend Storvik, Martin A. Fernø 
+        conference: "Transport in Porous Media, 2023"
 
-      - name: Javascript & jQuery
-        level: 98%
+      - title: "Physical variability in meter-scale laboratory CO2 injections in faulted geometries"
+        link: "https://arxiv.org/abs/2301.07347"
+        authors: Malin Haugen, Lluis Salo-Salgado, Kristoffer Eikehaug, Benyamine Benali, Jakub W. Both, Erlend Storvik, Olav Folkvord, Ruben Juanes, Jan M. Nordbotten, Martin A. Ferno
+        conference: "arXiv preprint arXiv:2301.07347, 2023"
 
-      - name: Angular
-        level: 98%
+      - title: "Splitting Schemes for Coupled Differential Equations: Block Schur-Based Approaches and Partial Jacobi Approximation."
+        link: "https://arxiv.org/abs/2212.11111"
+        authors: Roberto Nuca, Erlend Storvik, Florin A. Radu, Matteo Icardi
+        conference: "arXiv preprint arXiv:2212.11111, 2022"
 
-      - name: HTML5 & CSS
-        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - title: "A robust solution strategy for the Cahn-Larché equations"
+        link: "https://doi.org/10.1016/j.camwa.2023.02.002"
+        authors: Erlend Storvik, Jakub W. Both, Jan M. Nordbotten, Florin A. Radu
+        conference: "Computers & Mathematics with Applications, 2023, 136: 112-126."
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: "A Cahn–Hilliard–Biot system and its generalized gradient flow structure"
+        link: "https://doi.org/10.1016/j.aml.2021.107799"
+        authors: Erlend Storvik, Jakub W. Both, Jan M. Nordbotten, Florin A. Radu
+        conference: "Applied Mathematics Letters, 2022, 126: 107799."
+      
+      - title: "An accelerated staggered scheme for variational phase-field models of brittle fracture"
+        link: "https://doi.org/10.1016/j.cma.2021.113822"
+        authors: Erlend Storvik, Jakub W. Both, Juan M. Sargado, Jan M. Nordbotten, Florin A. Radu
+        conference: "Computer Methods in Applied Mechanics and Engineering, 2021, 381: 113822"
+
+      - title: "The fixed-stress splitting scheme for Biot's equations as a modified Richardson iteration: Implications for optimal convergence"
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-55874-1_90"
+        authors: Erlend Storvik, Jakub W. Both, Jan M. Nordbotten, Florin A. Radu
+        conference: "Numerical Mathematics and Advanced Applications ENUMATH 2019"
+
+      - title: On the optimization of the fixed‐stress splitting for Biot's equations
+        link: "https://doi.org/10.1002/nme.6130"
+        authors: Erlend Storvik, Jakub W. Both, Kundan Kumar, Jan M. Nordbotten, Florin A. Radu
+        conference: "International Journal for Numerical Methods in Engineering, 2019, 120.2: 179-194"
+
+
+# skills:
+#     title: Skills &amp; Proficiency
+
+#     toolset:
+#       - name: Python
+#         level: 98%
+
+#       - name: Javascript & jQuery
+#         level: 98%
+
+#       - name: Angular
+#         level: 98%
+
+#       - name: HTML5 & CSS
+#         level: 95%
+
+#       - name: Ruby on Rails
+#         level: 85%
+
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
