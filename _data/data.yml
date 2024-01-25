@@ -107,6 +107,45 @@ experiences:
         details: |
           Acted as a teaching assistant in a variety of bachelor and master level mathematics courses.
 
+courses:
+    title: Courses that I have been teaching
+    info:
+      - course: MAT 110 - Mathematics 1 for Engineers
+        time: Fall 2023
+        institution: Western Norway University of Applied Sciences, Førde
+        details: |
+          First subject in calculus with some linear algebra and differential equations.
+      
+      - course: Summer course in mathematics
+        time: Summer 2023
+        institution: Western Norway University of Applied Sciences, Førde
+        details: |
+          Summer course in mathematics covering the basics needed to start the engineering education.
+      
+      - course: MAT 104 - Mathematics 1 for informatics students
+        time: Spring 2023
+        institution: Western Norway University of Applied Sciences, Førde
+        details: |
+          Mathematics course for informatics students covering some linear algebra, complex numbers and basic calculus.
+
+      - course: Gathering-based preparatory course in mathematics
+        time: Spring 2023
+        institution: Western Norway University of Applied Sciences, Førde
+        details: |
+          Preparatory course in mathematics covering the basics needed to start the engineering education.
+
+      - course: MAT 360 - Finite element methods and domain decomposition
+        time: Fall 2020
+        institution: University of Bergen
+        details: |
+          Master and PhD-level course in finite element methods. Focus was split between implementation and analysis of the methods.
+        
+      - course: MAT 111 - Calculus 1
+        time: Spring 2020
+        institution: University of Bergen
+        details: |
+          First calculus course at the University of Bergen.
+
 # certifications:
 #       title: Certifications
 #       list:
