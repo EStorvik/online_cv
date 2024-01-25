@@ -223,6 +223,11 @@ publications:
         authors: Erlend Storvik, Cedric Riethmüller, Jakub Wiktor Both, Florin Adrian Radu
         conference: "arXiv preprint arXiv:2401.13358, 2024"
 
+      - title: "Physical Variability in Meter-Scale Laboratory CO2 Injections in Faulted Geometries"
+        link: "https://doi.org/10.1007/s11242-023-02047-8"
+        authors: Malin Haugen, Lluis Salo-Salgado, Kristoffer Eikehaug, Benyamine Benali, Jakub W. Both, Erlend Storvik, Olav Folkvord, Ruben Juanes, Jan M. Nordbotten, Martin A. Ferno
+        conference: "Transport in Porous Media, 2024"
+
       - title: "Well-posedness analysis of the Cahn-Hilliard-Biot model"
         link: "https://arxiv.org/abs/2310.18231"
         authors: Cedric Riethmüller, Erlend Storvik, Jakub Wiktor Both, Florin Adrian Radu
@@ -242,11 +247,6 @@ publications:
         link: "https://doi.org/10.1007/s11242-023-02000-9"
         authors: Jan M. Nordbotten, Benyamine Benali, Jakub W. Both, Bergit Brattekås, Erlend Storvik, Martin A. Fernø 
         conference: "Transport in Porous Media, 2023"
-
-      - title: "Physical variability in meter-scale laboratory CO2 injections in faulted geometries"
-        link: "https://arxiv.org/abs/2301.07347"
-        authors: Malin Haugen, Lluis Salo-Salgado, Kristoffer Eikehaug, Benyamine Benali, Jakub W. Both, Erlend Storvik, Olav Folkvord, Ruben Juanes, Jan M. Nordbotten, Martin A. Ferno
-        conference: "arXiv preprint arXiv:2301.07347, 2023"
 
       - title: "Splitting Schemes for Coupled Differential Equations: Block Schur-Based Approaches and Partial Jacobi Approximation."
         link: "https://arxiv.org/abs/2212.11111"
