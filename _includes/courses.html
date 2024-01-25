@@ -9,6 +9,12 @@
         {{ courses.title }}
     </h2>
 
+    {% if courses.intro %}
+    <div class="intro">
+        <p>{{ courses.intro }}</p>
+    </div><!--//intro-->
+    {% endif %}
+
     {% for course in courses.info %}
     <div class="item">
 

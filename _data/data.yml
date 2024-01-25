@@ -108,7 +108,9 @@ experiences:
           Acted as a teaching assistant in a variety of bachelor and master level mathematics courses.
 
 courses:
-    title: Courses that I have been teaching
+    title: Courses
+    intro: >
+      Here follows a list of courses that I have been teaching
     info:
       - course: MAT 110 - Mathematics 1 for Engineers
         time: Fall 2023
