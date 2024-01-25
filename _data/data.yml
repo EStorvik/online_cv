@@ -177,6 +177,11 @@ publications:
       Here is a list of my scientific publications.
     papers:
 
+      - title: "Sequential solution strategies for the Cahn-Hilliard-Biot model"
+        link: "https://arxiv.org/abs/2401.13358"
+        authors: Erlend Storvik, Cedric Riethmüller, Jakub Wiktor Both, Florin Adrian Radu
+        conference: "arXiv preprint arXiv:2401.13358, 2024"
+
       - title: "Well-posedness analysis of the Cahn-Hilliard-Biot model"
         link: "https://arxiv.org/abs/2310.18231"
         authors: Cedric Riethmüller, Erlend Storvik, Jakub Wiktor Both, Florin Adrian Radu
