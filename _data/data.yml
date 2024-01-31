@@ -112,6 +112,12 @@ courses:
     intro: >
       Here follows a list of courses that I have been teaching
     info:
+      - course: Short course in Lie theory
+        time: Spring 2024
+        institution: Western Norway University of Applied Sciences, Førde
+        details: |
+          A short course in Lie theory with the aim of applying it to state estimation in robotics.
+
       - course: MAT 110 - Mathematics 1 for Engineers
         time: Fall 2023
         institution: Western Norway University of Applied Sciences, Førde
